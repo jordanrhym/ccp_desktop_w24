@@ -13,6 +13,11 @@
     height: auto;
   }
 
+  .dark-mode {
+    background-color: rgb(112, 141, 119);
+    color: white;
+}
+
 @media (prefers-reduced-motion) {
     .animation {
         animation: none;

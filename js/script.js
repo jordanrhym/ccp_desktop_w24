@@ -11,3 +11,9 @@ function scrollFunction() {
     document.body.scrollTop = 0; 
     document.documentElement.scrollTop = 0; 
   }
+
+/* let button = document.getElementById("drkBtn");
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }*/
